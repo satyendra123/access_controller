@@ -1,0 +1,6 @@
+outdoor-0-open = for this we need to send this command 02 00 2C FF 01 00 00 D0 03    (open door)  - open-0
+outdoor-0-close = for this we need to send this command 02 00 2E FF 01 00 00 D2 03   (close door) - close-0
+
+
+outdoor-1-open = for this we need to send this command 02 00 2C FF 02 00 00 D3 03    (open door)  - open-0
+outdoor-1-close = for this we need to send this command 02 00 2E FF 02 00 00 D1 03   (close door) - close-0
